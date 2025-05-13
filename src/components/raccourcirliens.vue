@@ -36,7 +36,7 @@ async function handleShorten() {
 
 <style scoped>
 .btn {
-  background-color: palevioletred;
+  background-color: rgb(225, 138, 167);
   color: white;
   padding: 10px 20px;
   border-radius: 8px;
