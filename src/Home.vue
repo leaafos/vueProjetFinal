@@ -8,4 +8,9 @@ async function loadUrls() {
   const data = await $api("/rest/v3/short-urls")
   console.log(data)
 }
+import Raccourcirliens from '@/components/raccourcirliens.vue'
 </script>
+
+<template>
+  <Raccourcirliens></Raccourcirliens>
+</template>
